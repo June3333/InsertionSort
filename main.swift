@@ -172,7 +172,7 @@ for number in list {
     }
     SortedWords.append(IntToWord)
 }
-print(SortedWords)
+//print(SortedWords)
 
 
 
